@@ -38,9 +38,6 @@ dependencies:
   get:
   image_picker:
   google_ml_kit:
-  firebase_core:
-  flutter_spinkit:
-  animated_text_kit:
   qr_flutter:
   flutter_barcode_scanner:
   google_fonts:
