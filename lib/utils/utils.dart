@@ -16,7 +16,6 @@ class Utils {
           message,
           style: GoogleFonts.nunito(
             color: Colors.white,
-            fontWeight: FontWeight.w400,
           ),
         )));
   }
