@@ -14,9 +14,6 @@ class Utils {
         backgroundColor: Colors.black54,
         content: Text(
           message,
-          style: GoogleFonts.nunito(
-            color: Colors.white,
-          ),
         )));
   }
 }
